@@ -3,8 +3,7 @@ export enum bloodType {
     aNegative,
     oNegative,
     oPositive,
-    bPositive,
-    bNegative,
+    
 }
 
 export interface human {
